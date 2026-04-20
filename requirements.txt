@@ -1,8 +1,8 @@
-fastapi==0.110.1
-uvicorn==0.29.0
-motor==3.3.1
-python-dotenv==1.0.1
-google-genai==1.65.0
-pydantic==2.7.1
-pyswisseph==2.10.3.2
-aiohttp==3.9.5
+fastapi
+uvicorn
+motor
+python-dotenv
+google-genai
+pydantic>=2.9.0
+pyswisseph
+aiohttp
